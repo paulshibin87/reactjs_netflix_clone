@@ -1,0 +1,3 @@
+TMDB API
+    1. Api Key: 05d13f8d44a232d7a97b3b99b89b3771
+    2. ex.URL : https://api.themoviedb.org/3/movie/550?api_key=05d13f8d44a232d7a97b3b99b89b3771
